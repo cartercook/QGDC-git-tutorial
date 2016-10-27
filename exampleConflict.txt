@@ -1,0 +1,6 @@
+First line I wrote in file1.
+<<<<<<< HEAD
+Line I just added to file1.
+=======
+Line Sam added to file1.
+>>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78
