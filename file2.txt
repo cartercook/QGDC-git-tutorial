@@ -1,1 +1,2 @@
 First line I wrote in file2.
+Line I added to file2.
